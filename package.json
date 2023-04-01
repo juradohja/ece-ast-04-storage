@@ -28,7 +28,7 @@
   "homepage": "https://github.com/juradohja/ece-ast-04-storage#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "ejs": "^2.6.2",
+    "ejs": "^3.1.7",
     "express": "^4.17.1",
     "jquery": "^3.4.1",
     "mongodb": "^3.2.7",
